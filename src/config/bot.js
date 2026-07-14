@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Custom Status", // required by Discord API, not shown in the client
-        state: "stalking",     // this is what people actually see
+        state: "Managing Scotland Glasgow Roleplay",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
@@ -141,9 +141,9 @@ export const botConfig = {
     },
     footer: {
       // Default footer text used in bot embeds.
-      text: "Titan Bot",
+      text: "SGRP Management",
       // Footer icon URL (null = no icon).
-      icon: null,
+      icon:file:///C:/Users/Ben/Downloads/sgrp_logo_skyline.png,
     },
     // Default thumbnail URL for embeds (null = no thumbnail).
     thumbnail: null,
@@ -217,7 +217,7 @@ export const botConfig = {
     defaultCategory: null,
 
     // Role IDs allowed to manage/support tickets.
-    supportRoles: [],
+    supportRoles: [1464024797674602601],
 
     // Priority options users/staff can assign.
     priorities: {
