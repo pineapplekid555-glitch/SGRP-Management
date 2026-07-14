@@ -143,7 +143,7 @@ export const botConfig = {
       // Default footer text used in bot embeds.
       text: "SGRP Management",
       // Footer icon URL (null = no icon).
-      icon:https://drive.google.com/file/d/1C-6yHLpg6RV9kWtCDw2w4CPlX4QEciIf/view?usp=sharing,
+      icon:null,
     },
     // Default thumbnail URL for embeds (null = no thumbnail).
     thumbnail: null,
